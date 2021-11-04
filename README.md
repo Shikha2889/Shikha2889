@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikha2889)](https://github.com/Shikha2889/github-readme-stats)
 
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shikha2889)](https://github.com/Shikha2889)
 
